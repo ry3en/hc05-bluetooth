@@ -63,7 +63,7 @@ public class LedControl extends AppCompatActivity {
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick (View v) {
-                sendSignal("2");
+                sendSignal("0");
             }
         });
 

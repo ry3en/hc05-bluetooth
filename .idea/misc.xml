@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MH/AndroidStudioProjects/hc05-bluetooth/app/src/main/res/layout/activity_menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MH/AndroidStudioProjects/hc05-bluetooth/app/src/main/res/layout/content_menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MH/AndroidStudioProjects/hc05-bluetooth/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/MH/AndroidStudioProjects/hc05-bluetooth/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MH/AndroidStudioProjects/hc05-bluetooth/app/src/main/res/layout/fragment_second.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_led_control2.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4244791666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
